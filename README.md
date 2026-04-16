@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rishabh Jain</h1>
 <h3 align="center">IT Operations Automation & DevOps Specialist | Streamlining Processes, Optimizing CI/CD Pipelines, Proficient in Linux, AWS, GitLab CI/CD, Jenkins, Prometheus.</h3>
 
+(img align="right" alt="Coding" width="400" src="https://www.freepik.com/free-ai-image/person-playing-3d-video-games-device_94950229.htm#fromView=keyword&page=1&position=1&uuid=89f887b0-10c2-4ca8-93f5-550db083e237&query=Coding+gif")
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oye-rishabh29&label=Profile%20views&color=0e75b6&style=flat" alt="oye-rishabh29" /> </p>
 
 - 🔭 I’m currently working on **modern portfolio website**
